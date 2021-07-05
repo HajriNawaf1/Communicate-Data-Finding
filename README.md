@@ -10,6 +10,5 @@ I've choosed this dataset for many reasons one of them is related to my country 
 
 In this Visualization I tried to focus on the trip duration and what type of users are using this service more than other by binding these results with the days on the week to try get something interesting to write an insight or recommend tips for whom are interested to this services
 
-Summary of findings:
-    There was a lot more subscribers using the bike sharing system than casual customers overall, 
- Obviously different usage patterns and riding habits are observed between the two types of riders. Subscribers used the system heavily on work days concentrated around 8-9am and 17-18pm for work commute, whereas customers ride a lot over weekends and in the afternoon for leisure/touring purposes. Subscribers tended to have much shorter/quicker trips compared to customers which makes subscriber usage more efficient.
+
+Summary of findings: There was a lot more subscribers using the bike sharing system than casual customers overall, Obviously different usage patterns and riding habits are observed between the two types of riders. customers ride a lot over weekends  for leisure/touring purposes. Subscribers tended to have much shorter/quicker trips compared to customers which makes subscriber usage more efficient.
